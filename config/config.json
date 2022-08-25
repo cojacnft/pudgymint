@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8bA5721062282e66238A9F01A52716102124F6D5",
+  "SCAN_LINK": "https://etherscan.io/address/0x8ba5721062282e66238a9f01a52716102124f6d5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Pudgy Seals",
+  "SYMBOL": "Pudgy Seals",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pudgyseals",
+  "SHOW_BACKGROUND": true
+}
